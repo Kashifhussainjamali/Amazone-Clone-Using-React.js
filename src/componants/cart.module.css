@@ -1,0 +1,28 @@
+.cartdata{
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    /* justify-content: center; */
+    justify-content: space-around;
+}
+.cartmain{
+    background-color: rgb(226, 226, 226);
+    width: 1000px;
+    visibility: hidden;
+    border-radius: 15px;
+    padding: 20px;
+    position: fixed;
+    z-index: 1000;
+    top: 80px;
+    margin-left: 130px;
+    height: 500px;
+    overflow: auto; /* or overflow-y: scroll; */
+}
+.x{
+    font-size: 22px;
+    margin-left: 930px;
+}
+.stylebtn{
+    border: none;
+    background-color:rgb(226, 226, 226) ;
+}

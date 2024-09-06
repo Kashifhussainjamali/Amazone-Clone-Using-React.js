@@ -1,0 +1,59 @@
+#main{
+    background-color: rgba(19,25,33,255);
+    height: 70px;
+}
+.cartbtn{
+    border: none;
+    background-color: rgba(19,25,33,255);
+    color: white;
+}
+#pak{
+    color: white;
+    font-weight: 500;
+    margin-top: 5px;
+}
+#all{
+    background-color: rgb(209, 209, 209);
+    font-size: 14px;
+    border-radius: 5px 0px 0px 5px;
+}
+.search{
+    width: 470px;
+    height: 37px;
+    border: none;
+    outline: none;
+}
+.searchmain{
+    display: flex;
+    margin-left: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.searchiconmain{
+    background-color: rgb(255, 199, 95);
+    height: 37px;
+    width: 40px;
+    border-radius: 0px 5px 5px 0px;
+}
+.sicon{
+    font-size: 23px;
+    margin-left: 7px;
+    margin-top: 4px;
+}
+#lang{
+    color:  white;
+    font-weight: bold;
+    margin-left: 15px;
+    font-size: 14px;
+    margin-top: 12px;
+}
+.flag{
+    height: 25px;
+}
+.cart{
+    font-size: 25px;
+}
+.cartvalue{
+    color: orange;
+    font-size: 18px;
+}

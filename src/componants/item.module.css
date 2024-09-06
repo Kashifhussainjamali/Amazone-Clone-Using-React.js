@@ -1,0 +1,49 @@
+.productmain{
+    padding: 5px;
+    border: 1px solid rgb(182, 182, 182);
+    border-radius: 5px;
+    width: 285px;
+}
+.img{
+    height: 270px;
+    border-radius: 5px;
+    
+    
+}
+.textname{
+    width: 270px;
+    color: black;
+    font-weight: 500;
+    height: 90px;
+    font-size: 15px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    
+}
+.price{
+    font-size: 30px;
+    font-weight: 500;
+}
+.sup{
+    font-size: 15px;
+}
+.newprice{
+    font-size: 15px;
+    color: black;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.cart{
+    border: none;
+    background-color: orange;
+    border-radius: 15px;
+    font-weight: 500;
+    font-size: 14px;
+    height: 28px;
+    text-align: center;
+    align-items: center;
+    margin-left: 180px;
+    margin-bottom: 10px;
+    width: 90px;
+
+}

@@ -1,0 +1,49 @@
+.mainul{
+    list-style: none;
+    display: flex;
+}
+.innerul{
+    list-style: none;
+    color: white;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.footermain{
+    background-color: rgba(35,47,62,255);
+    margin-top: 20px;
+    height: 380px;
+    padding: 10px;
+
+}
+.heading{
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.text{
+    font-size: 15px;
+    color: rgb(207, 207, 207);
+    margin-top: 5px;
+}
+.text:hover{
+    text-decoration: underline;
+}
+.lastul{
+    display: flex;
+    list-style: none;
+    color: white;
+    margin-left: 240px;
+}
+.lang{
+    border: 1px solid rgb(165, 165, 165);
+    border-radius: 2px;
+    width: 140px;
+    height: 30px;
+    padding-left: 8px;
+    font-size: 14px;
+    margin-left: 30px;
+
+}
+.flag{
+    height: 30px;
+}
